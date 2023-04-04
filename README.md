@@ -1,6 +1,6 @@
 # Islam Datasets
 
-This GitHub project contains two folders: `quran` and `hadith`. The `quran` folder currently only has the Sahih International translation of the Quran, while the `hadith` folder contains CSV files of hadiths from Bukhari, Muslim, Adab, and Nawawi40 collections. The hadiths were taken from https://sunnah.com.
+This GitHub project contains two folders: `quran` and `hadith`. The `quran` folder currently only has the Sahih International translation of the Quran (from https://tanzil.net/docs/, purged of brackets for dawah purposes), while the `hadith` folder contains CSV files of hadiths from Bukhari, Muslim, Adab, and Nawawi40 collections. The hadiths were taken from https://sunnah.com.
 
 This dataset was primarily collected for the sake of the [NaseehahBot](https://linktr.ee/naseehahbot), a bot for social media that posts reminders curated to be timely, short, and include only sahih or hasan hadiths. However, this data is available for anyone to use for their own work as long as it furthers the goals of Islam and the sunnah.
 
